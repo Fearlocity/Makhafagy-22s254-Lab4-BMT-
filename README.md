@@ -1,1 +1,3 @@
-# Makhafagy-22s254-Lab4-BMT-
+#CSUF
+Group Members Names: Mahmoud Khafagy, Timothy Bryant, Benjamin Filler
+
